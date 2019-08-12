@@ -1,0 +1,28 @@
+{
+  "name": "advertising",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexetify/Advertising.git"
+  },
+  "keywords": [
+    "gulp_practice"
+  ],
+  "author": "Alexei_Kushnirenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexetify/Advertising/issues"
+  },
+  "homepage": "https://github.com/Alexetify/Advertising#readme"
+}
